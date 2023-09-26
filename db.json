@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": "123s123",
+      "title": "server öğren",
+      "date": "26.09.2023",
+      "isDone": true
+    },
+    {
+      "id": "1231d23",
+      "title": "server öğren",
+      "date": "26.09.2023",
+      "isDone": true
+    }
+  ],
+  "user": [
+    {
+      "id": "12312340",
+      "name": "ahmet",
+      "email": "deneme@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": "12",
+      "title": "İş",
+      "image": "www.unsplash.com"
+    }
+  ]
+}
